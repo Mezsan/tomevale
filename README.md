@@ -9,7 +9,7 @@ Disponible sur Windows et Android (bêta). Les téléchargements sont dans les [
 
 ### Windows
 
-1. Télécharge `Tomevale Setup 0.9.0.exe` depuis les [Releases](../../releases).
+1. Télécharge `Tomevale.Setup.0.9.0.exe` depuis les [Releases](../../releases).
 2. Lance-le. Windows affiche « Windows a protégé votre ordinateur » parce que l'installeur n'est pas encore signé :
    clique sur **Informations complémentaires**, puis **Exécuter quand même**.
 3. Choisis le dossier d'installation, puis lance Tomevale depuis le menu Démarrer.
