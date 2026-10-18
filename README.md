@@ -5,18 +5,18 @@ Disponible sur Windows et Android (bêta). Les téléchargements sont dans les [
 
 > Ce dépôt ne contient que les téléchargements et le guide d'installation, pas le code source.
 
-## Installer Tomevale (version 0.9.0, bêta)
+## Installer Tomevale (version 0.11.0, bêta)
 
 ### Windows
 
-1. Télécharge `Tomevale.Setup.0.9.0.exe` depuis les [Releases](../../releases).
+1. Télécharge `Tomevale.Setup.0.11.0.exe` depuis les [Releases](../../releases).
 2. Lance-le. Windows affiche « Windows a protégé votre ordinateur » parce que l'installeur n'est pas encore signé :
    clique sur **Informations complémentaires**, puis **Exécuter quand même**.
 3. Choisis le dossier d'installation, puis lance Tomevale depuis le menu Démarrer.
 
 ### Android
 
-1. Télécharge `Tomevale-0.9.0.apk` depuis les [Releases](../../releases), directement sur ton téléphone.
+1. Télécharge `Tomevale-0.11.0.apk` depuis les [Releases](../../releases), directement sur ton téléphone.
 2. Ouvre-le. Android demande d'autoriser l'installation depuis cette source : accepte pour cette fois.
 3. Lance Tomevale.
 
