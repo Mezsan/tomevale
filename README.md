@@ -1,24 +1,24 @@
-# Tomevale
+# Tomnest
 
 Compagnon League of Legends : champions et fiches détaillées, builds et runes, patch notes, et une carte illustrée de Runeterra.
 Disponible sur Windows et Android (bêta). Les téléchargements sont dans les [Releases](../../releases).
 
 > Ce dépôt ne contient que les téléchargements et le guide d'installation, pas le code source.
 
-## Installer Tomevale (version 0.11.0, bêta)
+## Installer Tomnest (version 0.11.0, bêta)
 
 ### Windows
 
 1. Télécharge `Tomevale.Setup.0.11.0.exe` depuis les [Releases](../../releases).
 2. Lance-le. Windows affiche « Windows a protégé votre ordinateur » parce que l'installeur n'est pas encore signé :
    clique sur **Informations complémentaires**, puis **Exécuter quand même**.
-3. Choisis le dossier d'installation, puis lance Tomevale depuis le menu Démarrer.
+3. Choisis le dossier d'installation, puis lance Tomnest depuis le menu Démarrer.
 
 ### Android
 
 1. Télécharge `Tomevale-0.11.0.apk` depuis les [Releases](../../releases), directement sur ton téléphone.
 2. Ouvre-le. Android demande d'autoriser l'installation depuis cette source : accepte pour cette fois.
-3. Lance Tomevale.
+3. Lance Tomnest.
 
 ## Compte et synchro (facultatif)
 
@@ -33,6 +33,6 @@ téléphone) et ce que tu faisais.
 
 ---
 
-Tomevale n'est ni approuvée ni sponsorisée par Riot Games et ne reflète pas les opinions de Riot Games ni de personne
+Tomnest n'est ni approuvée ni sponsorisée par Riot Games et ne reflète pas les opinions de Riot Games ni de personne
 participant officiellement à la production ou à la gestion de ses propriétés. League of Legends et Riot Games sont des
 marques ou des marques déposées de Riot Games, Inc.
